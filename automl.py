@@ -3,7 +3,7 @@ import streamlit as st
 import base64
 from pandas import DataFrame
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 import matplotlib. pyplot as plt
 import sweetviz as sv
 
