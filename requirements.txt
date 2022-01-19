@@ -6,4 +6,4 @@ scikit-learn==0.22.1
 xgboost==0.90
 base58==2.1.0
 scipy==1.5.4
-lxml==4.6.3a
+lxml==4.6.3
